@@ -2,9 +2,13 @@
 
 ## Repository Structure
 Task2_Submission/
+
 ├── Base_ML/
+
 │   ├── Level_1_ResNet/      # ResNet from scratch on CIFAR-10 (89% accuracy)
+
 │   ├── Level_2_LSTM/        # Custom LSTM on Jena Climate (MAE: 0.48°C)
+
 ├── Applied_ML/              # Healthcare Information Assistant (RAG system)
 
 ## Base ML
